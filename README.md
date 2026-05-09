@@ -92,7 +92,7 @@ Jika belum ada, buat manual atau akan dibuat otomatis saat upload gambar.
 > **Catatan**: Password di database tersimpan dalam format hash PHP `password_hash()`.
 > Untuk mengganti password, jalankan di phpMyAdmin:
 > ```sql
-> UPDATE admin SET password = '$2y$10$...' WHERE username = 'admin';
+> UPDATE admin SET password = 'admin123' WHERE username = 'admin';
 > ```
 > Atau ganti manual menggunakan `password_hash('passwordbaru', PASSWORD_DEFAULT)`.
 

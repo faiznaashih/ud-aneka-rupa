@@ -1,7 +1,5 @@
 # 🍪 UD Aneka Rupa — Website Sistem Informasi & Pemesanan Kerupuk
 
-Website fullstack PHP Native + MySQL untuk skripsi.
-
 ---
 
 ## 📁 Struktur Folder
